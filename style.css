@@ -1,0 +1,21 @@
+h1{
+    color: #000;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+btnl1:hover{
+    font-style: normal;
+ background-color: brown;   
+margin-left: 10px; ;
+}
+h2{
+    color: brown;
+    margin-top: 0px;
+
+}
+img{
+    width: auto;
+    display: flex;
+    margin-left: auto;
+}
